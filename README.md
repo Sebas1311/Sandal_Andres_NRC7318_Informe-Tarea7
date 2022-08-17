@@ -128,6 +128,159 @@ LT=1/(1/L1+1/L2),LT=8mH,L1=12mH
 
 L2=1/(1/LT-1/L1)=1/(1/8-1/12)=1/(1/24)=24mH    →     Se necesita un inductor de este valor
 
+18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.
+
+![image](https://user-images.githubusercontent.com/105684550/185229513-2f9e5f58-4b0c-4b99-bb4c-aa3b1fa0724c.png)
+
+- A) L1 y L2 están en paralelo, y en serie con el paralelo de L3 y L4.
+
+1/(1/100+1/50)+1/(1/60+1/40)
+
+33.33 mH+24 mH=57.33 mH
+
+- B) L1 y L2 están en serie, y en paralelo con la serie de L3 y L4.
+
+1/(1/(8+4)+1/(4+2))=1/(1/12+1/6)=4 mH
+
+- C) L3 y L4 están en serie, L5 y L2 también están en serie. 
+
+L3+L4= 1mH + 1Mh= 2Mh
+
+L5+L2= 2mH + 2Mh= 4Mh
+
+Las resistencias resultantes se encuentran en paralelo y a su vez en serie con la resistencia L1
+
+4+1/(1/2+1/4)=5.33 mH
+
+20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
+-Usando la fórmula de la constante de tiempo RL
+
+- a) R= 56 Ω, L = 50 µH.
+
+τ=L/R=(50µH)/56Ω=0.89 µs
+
+- b) R= 3300 Ω, L = 15 mH
+
+τ=L/R=15mH/3300Ω=4.54µs
+
+- c) R= 22 kΩ, L = 100 mH
+
+τ=L/R=100mH/22kΩ=4.54 µs
+
+22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+
+![image](https://user-images.githubusercontent.com/105684550/185229554-4a878353-a8ad-417a-a650-e54dbb1121f4.png)
+
+La constante de tiempo del circuito es: 
+
+τ=L/R=(75 mH)/(8.2 kΩ)=9.14 µs
+
+La corriente final del circuito es: 
+
+I=Vs/R=10V/8.2kΩ=1.21 mA
+
+- a) 10µs
+
+i=0.63(1.21)=0.76 mA
+
+- b) 20µs
+
+i=0.86(1.21)=1.04 mA
+
+- c) 30µs
+
+i=0.95(1.21)=1.14 mA
+
+24. Repita el problema 22 para los siguientes instantes:
+
+a) 65µs
+
+i=0.37(1.21)=0.44 mA
+
+b) 75µs
+
+i=0.14(1.21)=0.16 mA
+
+c) 85µs
+
+i=0.5(1.21)=0.6 mA
+
+26. ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
+
+A medida que la onda cuadrada para de cero a su valor máximo de 10V, se induce un voltaje entre las terminales del inductor que se opone a este cambio conforme aumenta el campo magnético, a medida que el campo magnético aumenta al voltaje inducido disminuye haciendo que su polaridad cambie. 
+
+¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?
+
+i=0.2(1.21)=0.24 mA
+
+30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
+
+![image](https://user-images.githubusercontent.com/105684550/185229613-a873ca80-1a9e-4799-be08-9a5a453c79d8.png)
+
+- A) Determinando la inductancia total
+
+LT=1/(1/10+1/5)+1=4.33 H
+
+X_L=2πfL=2π(50∙〖10〗^3 )(4.33)=1.36 MΩ
+
+- B) Determinando la inductancia total
+
+LT=1/(1/100+1/100)=50mH
+
+X_L=2πfL=2π(50∙〖10〗^3 )(50∙〖10〗^(-3) )= 15.7kΩ
+
+- C) Determinando la inductancia total
+
+LT=1/(1/400+1/200+1/100)=57.14 µH
+
+X_L=2πfL=2π(50∙〖10〗^3 )(57.14∙〖10〗^(-6) )= 17.95Ω
+
+32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
+
+![image](https://user-images.githubusercontent.com/105684550/185229658-c01df79e-4527-49d0-9e56-ea4e4baa5e59.png)
+
+- Obteniendo la inductancia total:
+
+LT=1/(1/40+1/20)+50=63.33 µH
+
+Datos:
+
+2.5 kHz = 2.5∙〖10〗^3 Hz
+
+63.33 µH= 63.33∙〖10〗^(-6) H
+
+Por lo tanto XL=
+
+X_L=2πfL=2π(2.5∙〖10〗^3 )(63.33∙〖10〗^(-6) )=0.9947 Ω
+
+Entonces la corriente rms total es: 
+
+I_rms=Vrms/XL=10/0.9947=10.05 A
+
+- Calculando la corriente en L2 
+
+Datos:
+
+2.5 kHz = 2.5∙〖10〗^3 Hz
+
+20 µH= 20∙〖10〗^(-6) H
+
+X_L=2πfL=2π(2.5∙〖10〗^3 )(20∙〖10〗^(-6) )=0.3141 Ω
+
+I_rms=Vrms/XL=2.1/0.3141=6.68 A
+
+- Calculando la corriente en L3
+
+Datos:
+
+2.5 kHz = 2.5∙〖10〗^3 Hz
+
+40 µH= 40∙〖10〗^(-6) H
+
+X_L=2πfL=2π(2.5∙〖10〗^3 )(40∙〖10〗^(-6) )=0.6283 Ω
+
+I_rms=Vrms/XL=2.1/0.6283=3.34 A
+
 5.- Video
 
 6.- Conclusiones

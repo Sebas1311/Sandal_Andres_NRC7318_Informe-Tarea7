@@ -281,6 +281,194 @@ X_L=2πfL=2π(2.5∙〖10〗^3 )(40∙〖10〗^(-6) )=0.6283 Ω
 
 I_rms=Vrms/XL=2.1/0.6283=3.34 A
 
+34. En la figura 13-51, determine la potencia reactiva.
+
+![image](https://user-images.githubusercontent.com/105684550/185234747-d2c00967-5a3b-4e5a-928c-28901380fd1c.png)
+
+Hallar la reactancia inductiva y los valores de corriente
+
+L_2eq=((L_2*L_3)/(L_2+L_3 ))=13.33 µH
+
+L_T=L_1+L_2eq=50+13.33=63.33 µH
+
+X_L=2πF_L=2π(2.5*〖10〗^3 Hz)(0.01mH)=50π=157.08 Ω
+
+I=V_S/X_L =(10 V)/(157.08 Ω)=63.6 mA
+ 
+X_L=〖I^2*X〗_L=(63.6 mA)^2*(157.08 Ω)=0.6353 VAR
+
+                                                                14.- TRANSFORMADORES
+                                                                
+2. Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 = 2 µH.
+
+L_M=k*√(L_1*L_2 )
+
+L_M/√(L_1*L_2 )=k
+
+(1µH)/√(8µH*2µH)=k
+
+k=(1µH)/(4µH)=0.25
+
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+
+n=N_sec/N_pri 
+
+N_pri*n=N_sec
+
+N_sec=250*2=500 vueltas
+
+6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+
+V_sec=n*V_pri
+
+n=V_sec/V_pri 
+
+n=(720 V)/(240 V)=3 vueltas
+
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+
+V_sec=n*V_pri
+
+V_sec/n=V_pri
+
+V_pri=(60 V)/10=6 V
+
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+
+V_sec=n*V_pri
+
+V_sec=0.2*1200 V
+
+V_sec=240 V
+
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+
+V_sec=n*V_pri
+
+V_sec=0.05*120 V
+
+V_sec=6 V
+
+![image](https://user-images.githubusercontent.com/105684550/185235216-6bb2a666-2504-44b2-b7d0-8392f8a0e33f.png)
+
+V_sec=n*V_pri
+
+V_sec=2*12 V
+
+V_sec=24 V
+
+Carga del devanado secundario
+
+14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![image](https://user-images.githubusercontent.com/105684550/185235254-eee673a7-5e38-4c31-b6f0-c78ade58c9a7.png)
+
+I_sec=(1/n)*I_pri
+
+I_sec=(1/3)*100 mA=33 mA
+
+R_pri=V_pri/I_pri 
+
+R_pri=20V/(0.1 A)=200Ω
+
+R_pri=(1/n)^2*R_L
+
+R_L=R_pri/(1/n)^2 
+
+R_L=(200 Ω)/(1/n)^2 =1800 Ω
+
+16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![image](https://user-images.githubusercontent.com/105684550/185235872-e7731829-8b7a-4ddb-aff0-10140eb5b94c.png)
+
+Rpri=〖(1/n)〗^2 Rl=(1/5)^2 (680)=27.2Ω
+
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω
+
+![image](https://user-images.githubusercontent.com/105684550/185235932-1befa3f0-00ef-4445-8606-569568df3765.png)
+
+n=√(RL/Rpri)=√(4Ω/16Ω)=0.5
+
+22. ¿Cuál es la eficiencia del transformador en el problema 21?
+
+Datos 
+
+Pentrada = 100W
+
+Psalidad = 94.5W
+
+n=(Psal/Pent)100%
+
+n=(100W/94.5W)100%=94.5%
+
+24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.
+
+- a) ¿Cuál es la corriente máxima en la carga?
+
+ILi1=Psec/Vsec=5kVA/120=0.042kA=42 A
+
+ILi2=Psec/Vsec=5kVA/600=0.008kA=8 A
+
+La corriente máxima en la carga es de 42A
+
+- b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+
+Il1= 42A
+
+V=120
+
+Rli1=V/IL=120/42=2.86 Ω
+
+Il2=8A
+
+V=600V
+
+Rli2=V/IL=600/8=72.03 Ω
+
+El valor de RL mas pequeño es de 2.86 Ω
+
+26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
+
+- a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+
+Vsec=nVpri
+
+n=Vsec/Vpri=120V/2400V = 0.05
+
+- b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+
+I=Psec/Vsec
+
+I=5kVA/2400V=0.002kA=2A
+
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario
+
+![image](https://user-images.githubusercontent.com/105684550/185236137-0ae060c1-e386-4c56-8775-9b98f5077755.png)
+
+Vsec=nVpri
+
+n1=V1/Vpri=24V/12V=2
+
+n3=V1/Vpri=6V/12V=0.5
+
+n3=V1/Vpri=3V/12V=0.25
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios
+para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+
+![image](https://user-images.githubusercontent.com/105684550/185236170-ec029558-d743-4a36-bbaf-6cd0a2628144.png)
+
+Vsec=nVpri
+
+Vsec=(0.1)(240)=24V
+
+Vsec=(0.2)(240)=48V
+
+Vsec=(0.5)(240)=120V
+
+Vsec=(1)(240)=240V
+
 5.- Video
 
 6.- Conclusiones

@@ -25,8 +25,8 @@ Determinar las características de las corrientes y voltajes alternos ya sea en 
         
 3.- Marco teórico
 
-![image](https://user-images.githubusercontent.com/105684550/178379533-9e66c7da-ab51-41eb-aa8e-5c8c7718ab62.png)
-Link del mapa mental: https://www.canva.com/design/DAFGIGVo3Ns/ai4RUmVVGdUn9tXhRbMOCA/view?utm_content=DAFGIGVo3Ns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![image](https://user-images.githubusercontent.com/105684550/185208987-52c7c034-9078-41e2-9d66-699af038ffcb.png)
+Link del mapa mental: https://www.canva.com/design/DAFJibkupsc/yzPZbQU68SV6Ojy-v_4RBA/view?utm_content=DAFJibkupsc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ![image](https://user-images.githubusercontent.com/105684550/178379362-27e64715-04f3-4074-b210-0e531345826e.png)
 Link del mapa mental: https://www.canva.com/design/DAFGJiEKJ_4/iDwx7Z8FOQPBF4vthexd0Q/view?utm_content=DAFGJiEKJ_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

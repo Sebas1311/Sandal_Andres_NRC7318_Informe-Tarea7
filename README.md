@@ -79,7 +79,9 @@ L=30mH
 La inductancia del inductor 1 es menor en comparación al inductor 2 que tiene el doble de vueltas, es decir, que mientras más vueltas haya en el inductor mayor será la inductancia y a su vez mientras menor sea la cantidad de vueltas menor será la inductancia.
 
 10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4π×10^(-6) H/m). Determine la inductancia de la bobina que se formó. 
- 
+
+![image](https://user-images.githubusercontent.com/105684550/185227291-0aac7d32-15d8-410f-a6a2-3c6f12f4543b.png)
+
 l=3.5cm=0.035m
 
 A=πr^2=π〖(3.85×〖10〗^(-3) m)〗^2=4.657×〖10〗^(-5) m^2
@@ -99,7 +101,9 @@ LA=50mH-10mH-22mH
 LA=18mH     →    inductancia adicional 
 
 14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor? 
- 
+
+![image](https://user-images.githubusercontent.com/105684550/185227337-47e006d6-d6af-4b98-8f07-5e6234755fdb.png)
+
 - Interruptor 1:
 
 LT=L1+L2+L4=330µH+680µH+800µH=1810µH

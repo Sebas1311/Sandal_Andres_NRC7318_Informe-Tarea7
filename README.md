@@ -476,9 +476,9 @@ Vsec=(1)(240)=240V
 
 - Los inductores o bobinas son recursos lineales y pasivos que tienen la posibilidad de guardar y liberar energía basándose en fenómenos involucrados con campos magnéticos. Una aplicación de los inductores, consistente en bloquear las señales de AC de alta frecuencia en circuitos de radio, dio origen a que con dicho término se realice alusión a los inductores que se emplean en aplicaciones donde su costo no es crítico y que por consiguiente aceptan monumentales tolerancias. 
 
-- Con los transformadores se han podido solucionar una gigantesca proporción de inconvenientes eléctricos, en los que si no fuera por dichos, seria imposible solucionar.
+- La diferencia primordial que hay entre el transformador ideal y erreal, es que en el transformador ideal no se piensan ningún tipo de perdidas, y en el transformador real se piensan las pérdidas, como las de dispersión, las de las bobinas (cobre) y las del núcleo. teniendo presente que El transformador, es un dispositio que no posee piezas móviles, el cual transfiérela energía eléctrica de un circuito a otro bajo el inicio de inducción electromagnética. La transferencia de energía la hace en la mayoría de los casos con cambios en los valores de voltajes y corrientes lo que nos sugiere si el transformador. 
 
-- Debido a los transformadores el reparto de energía eléctrica se a podido utilizar y repartir a las diversas metrópolis de todo el mundo, a partir de las plantas generadoras de electricidad, independientemente de la generadora. 
+- Con los transformadores se han podido solucionar una gigantesca proporción de inconvenientes eléctricos, en los que si no fuera por dichos, seria imposible solucionar. Debido a los transformadores el reparto de energía eléctrica se a podido utilizar y repartir a las diversas metrópolis de todo el mundo, a partir de las plantas generadoras de electricidad, independientemente de la generadora. 
 
 7.- Bibliografía
 

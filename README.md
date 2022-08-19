@@ -15,18 +15,19 @@
 
   2.1.- Objetivo general:
   
-Determinar las características de las corrientes y voltajes alternos ya sea en circuitos en serio y/o paralelo y su vez en los circuitos CD y CA para poder aplicarlos en la resolución, simplificación y hallazgo de varibles en un circuito.
+Determinar la definición de los inductores y transformadores, por medio de identificar los tipos y características que se hacen presentes al estar en serie y/o paralelo o aus vez cuando estan en un circuito CD y CA para poder resolver adecuadamente los ejercicios e incognitas planteadas en cada tema.
         
   2.2.- Objetivo específicos:
   
-        - Identificar la forma y lo que genera una onda sinusoidal para determinar los diversos valores de voltaje y corriente de dicha onda seno usando el osciloscopio.
-        - Determinar el comportamiento de voltajes, corrientes y resistencias en los circuitos CD y CA.
-        - Describir la composición y funcionamiento de un capacitor conjuntamente con su comportamiento en un circuito en serie, paralelo, CD y CA.
+        - Describir la construcción y las características básicas de un inductor para diferenciar los varios tipos de inductores y analizar su comportamiento en los distintos circuitos.
+        - Describir cómo se construye un transformador y cómo funciona al estar en incremento y disminución del voltaje con el fin de analizar el efecto de una carga resistiva a través del devanado secundario.
+        - Resolver los ejercicios planteados, utilizando los conocimientos adquiridos en cada tema y subtema, de este modo lograr poner en práctica lo aprendido teóricamente.
         
 3.- Marco teórico
 
 ![image](https://user-images.githubusercontent.com/105684550/185208987-52c7c034-9078-41e2-9d66-699af038ffcb.png)
 Link del mapa mental: https://www.canva.com/design/DAFJibkupsc/yzPZbQU68SV6Ojy-v_4RBA/view?utm_content=DAFJibkupsc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![image](https://user-images.githubusercontent.com/105684550/185532453-0f19a5e4-85ec-4348-859a-fa0b7d14be4c.png)
 
 4.- Resolución
 
@@ -473,16 +474,12 @@ Vsec=(1)(240)=240V
 
 6.- Conclusiones
 
-- La CA una vez generada y distribuida a enormes distancia, es disminuida en su diferencia de potencial y aumentada su corriente, lo cual posibilita su uso de la casa, comercial e industrial. Es de mucha trascendencia las características de los circuitos CA, ya que han sido por un largo tiempo y son el soporte diario de la ingeniería eléctrica y la electrónica en el reparto de energía, iluminación, producción y sistemas industriales. En la actualidad, casi toda la corriente doméstica, comercial e industrial, es corriente alterna, esto es, corriente que invierte sentido constante y regularmente frecuentemente por segundo. 
+- Los inductores o bobinas son recursos lineales y pasivos que tienen la posibilidad de guardar y liberar energía basándose en fenómenos involucrados con campos magnéticos. Una aplicación de los inductores, consistente en bloquear las señales de AC de alta frecuencia en circuitos de radio, dio origen a que con dicho término se realice alusión a los inductores que se emplean en aplicaciones donde su costo no es crítico y que por consiguiente aceptan monumentales tolerancias. 
 
-- Se ha podido determinar varias de las funciones del osciloscopio tales como medir la elevación de las señales observadas en la pantalla, se dirige manipulando los controles del bloque vertical. El ancho de las señales observadas en la pantalla, se controlan manipulando los controles del bloque horizontal. El equilibrio de la imagen en la pantalla se consigue manipulando los controles del bloque de sincronismo. 
+- Con los transformadores se han podido solucionar una gigantesca proporción de inconvenientes eléctricos, en los que si no fuera por dichos, seria imposible solucionar.
 
-- Se pudo observar que en la aplicación de circuito el proceso de cómo usar un capacitor para acoplar voltajes de señales hacia y a partir de un amplificador. Además se localizo fallas en el amplificador mediante maneras de onda vistas en un osciloscopio 
+- Debido a los transformadores el reparto de energía eléctrica se a podido utilizar y repartir a las diversas metrópolis de todo el mundo, a partir de las plantas generadoras de electricidad, independientemente de la generadora. 
 
 7.- Bibliografía
 
-- Planas, O. (2016, agosto 9). Corriente alterna (CA) - Frecuencias, concepto y definición. Energía solar. Recuperado julio 11, 2022, de https://solar-energia.net/electricidad/corriente-electrica/corriente-alterna
-
-- Roberths, P. (2017, agosto 20). El voltaje alterno. coparoman. Recuperado julio 11, 2022, de https://coparoman.blogspot.com/2017/08/el-voltaje-alterno.html
-
-- Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
+Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
